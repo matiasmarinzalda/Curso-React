@@ -1,0 +1,44 @@
+[
+{
+    "id": 1,
+    "name": "Motherboard Gigabyte Z490 AORUS Master",
+    "description": "Placa base premium para procesadores Intel Core de 10ª y 11ª generación. Diseño robusto con disipación térmica avanzada, VRM de 16 fases, PCIe 4.0, Wi-Fi 6 integrado y RGB Fusion 2.0. Ideal para gaming extremo y overclocking.",
+    "price": 389999,
+    "image": "/img/z490-aorus-master.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Tarjeta Gráfica MSI GeForce RTX 3050 Low Profile",
+    "description": "GPU compacta ideal para PCs pequeños o SFF. Basada en arquitectura Ampere, ofrece ray tracing y DLSS en 1080p. Incluye 8GB GDDR6, diseño de bajo perfil y ventiladores silenciosos. Perfecta para gamers casuales y creadores de contenido.",
+    "price": 279999,
+    "image": "/img/rtx-3050-low-profile.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Sistema de Refrigeración Líquida Custom RGB",
+    "description": "Kit completo de refrigeración líquida personalizada con tubos rígidos acrílicos, bomba de alto flujo, radiador triple y ventiladores ARGB sincronizables. Iluminación dinámica multicolor y rendimiento térmico superior para CPUs y GPUs de alta gama.",
+    "price": 549999,
+    "image": "/img/custom-water-cooling-rgb.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Tarjeta Gráfica PowerColor AMD Radeon RX 6600 Fighter",
+    "description": "GPU de entrada-gama con arquitectura RDNA 2, 8GB GDDR6 y soporte para PCIe 4.0. Rendimiento sólido en 1080p Ultra, con sistema de enfriamiento dual-fan y backplate metálico. Excelente relación calidad-precio para gaming moderno.",
+    "price": 249999,
+    "image": "/img/rx6600-fighter.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Gabinete Gaming ATX con Flujo de Aire Optimizado",
+    "description": "Chasis ATX con panel lateral templado, múltiples ventiladores preinstalados (frontal, superior, trasero), gestión de cables inteligente y espacio para hasta 3 SSDs + 2 HDDs. Diseñado para máximo airflow y estética RGB integrada.",
+    "price": 189999,
+    "image": "/img/gaming-case-airflow.png"
+  },
+  {
+  "id": 6,
+  "name": "Fuente de Poder LNZ 650W 80 Plus Bronze",
+  "description": "Fuente de alimentación semimodular de 650W con certificación 80 Plus Bronze. Ventilador silencioso de 120mm con iluminación roja, protección contra sobrecarga, cortocircuito y sobrevoltaje. Ideal para sistemas gaming de gama media con GPU hasta RTX 4060 o RX 7600.",
+  "price": 89999,
+  "image": "/img/lnz-650w-bronze.jpg"
+}
+]
