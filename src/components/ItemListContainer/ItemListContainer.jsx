@@ -34,7 +34,7 @@ export const ItemListContainer = () => {
       .finally(() => setLoading(false));
   }, []);
 
-  console.log(products);
+  //console.log(products);
 
   //SOLO es para ejemplo practico porque aun nos faltan temas por ver: NO ES LA MANERA CORRECTA
   // const arrayProducts = [

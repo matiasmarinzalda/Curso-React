@@ -60,13 +60,21 @@ export const CartProvider = ({ children }) => {
         return cart.reduce((acc, element) => acc + element.price, 0);
     }
 
-    const checkOut = () => {
+    const checkout = () => {
         alert('💸💸💸 Gracias por su compra 💸💸💸');
         clearCart();
         navigate('/'); // Redirige a la página de inicio después de la compra
     }
 
 
-    const values = {clearCart,addItem,removeItem,getTotalItems, getCartTotal,checkOut};
+          const values = {
+            cart,
+            addItem,
+            removeItem,
+            getTotalItems,
+            getCartTotal,
+            clearCart,
+            checkout,
+          };
     return <CartContext.Provider value={values}>{children}</CartContext.Provider>;
 };
