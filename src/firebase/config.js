@@ -22,3 +22,5 @@ export const db = getFirestore(app);
 
 //para cuando veamos el login
 export const auth = getAuth(app);
+
+export { db, auth };
