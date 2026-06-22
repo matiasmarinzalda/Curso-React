@@ -12,7 +12,7 @@ export const Dashboard = () => {
 
         <div className="header-actions">
           <Link className="btn primary" to="/">
-            Volver a la tienda ◀ 🛒 ◀
+            Volver a la tienda 🛒
           </Link>
           <button className="btn bg-delete primary" onClick={logout}>
             🗝 Cerrar sesión 🗝
