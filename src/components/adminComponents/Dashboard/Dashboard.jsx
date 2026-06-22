@@ -12,10 +12,10 @@ export const Dashboard = () => {
 
         <div className="header-actions">
           <Link className="btn primary" to="/">
-            Volver a la tienda 🛒
+            Tienda 🛒
           </Link>
           <button className="btn bg-delete primary" onClick={logout}>
-            🗝 Cerrar sesión 🗝
+            Cerrar sesión 🗝
           </button>
         </div>
       </header>
